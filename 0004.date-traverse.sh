@@ -7,7 +7,7 @@
 start_date=`date -d "2019-01-27" +%Y-%m-%d`
 end_date=`date -d "2019-02-09" +%Y-%m-%d`
 
-while [[ $start_date < $end_date ]] || [[ $start_date = $end_date ]]
+while [[ $start_date < $end_date ]] || [[ $start_date == $end_date ]]
 do
     echo "######## $start_date #########"
 
