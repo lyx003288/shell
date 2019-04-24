@@ -4,3 +4,4 @@
 
     [0001 获得当前脚本绝对路径](https://github.com/lyx003288/shell/blob/master/0001.obtain-script-path.sh) <br>
     [我的博客](http://blog.csdn.net/guodongxiaren)  
+ [链接名称](http://gitcafe.com)
