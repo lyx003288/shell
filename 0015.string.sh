@@ -115,7 +115,7 @@ echo '8 字符串比较'
 [[ "abc" == "abc" ]]       # 逻辑真 (string comparision)   
 [[ "11" < "2" ]]           # 逻辑真 (string comparision), 按ascii值比较  
 
-echo '8 字符串链接'
+echo '9 字符串链接'
 s1="hello"  
 s2="world"  
 echo ${s1}${s2}   # 当然这样写 $s1$s2 也行，但最好加上大括号  
