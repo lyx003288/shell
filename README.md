@@ -11,7 +11,7 @@
 |0005|[遍历目录下的所有文件](https://github.com/lyx003288/shell/blob/master/0005.traverse-directory-files.sh)|
 |0006|[生成随机数的几种方法](https://github.com/lyx003288/shell/blob/master/0006.generate-random-num.sh)|
 |0007|[判断一个变量是否为数字](https://github.com/lyx003288/shell/blob/master/0007.check_digit.sh)|
-|0008|[常见的重定向问题的几个问题](https://github.com/lyx003288/shell/blob/master/0008.redirect.sh)|
+|0008|[常见的重定向的几个问题](https://github.com/lyx003288/shell/blob/master/0008.redirect.sh)|
 |0009|[EOF 用法](https://github.com/lyx003288/shell/blob/master/0009.eof.sh)|
 |0010|[代码段注释](https://github.com/lyx003288/shell/blob/master/0010.commentblock.sh)|
 |0011|[ftp 上传文件](https://github.com/lyx003288/shell/blob/master/0011.ftp_mput.sh)|
